@@ -1,80 +1,90 @@
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE>Dilawar Singh</TITLE>
-	<link rel="stylesheet" href="About_Files/dilawar.css">
-	</HEAD><body _textfied="true">
+<?php
+include('header.php');
+?>
 
-<!-- Site navigation menu -->
-<ul class="navbar">
-
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/index.php">Home</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/About.html">About</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/Research.html">Research</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/Writings.html">Writings</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/Readings.html">Readings</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/Resources.php">Resources</a></li>
-</ul>
-
-<!-- Main content -->
 <h2>Dilawar Singh</h2>
 <h3>Writings</h3>
-<body>
 
-<h4> Dilawar's Blog</h4>
-<p> <b> I have moved this blog from blogspot to wordpress. </b></p>
-<a href="http://dilawarrajput.wordpress.com" target="_blank">Here</a>
-I keep my late-night thoughts.  Some of these blogs are listed here.
-<br>
-<br>
-I have written about my M. Tech. life here <a
+<a href="http://dilawarrajput.wordpress.com" target="_blank"><h2>Dilawar's Blog</h2></a>
+<p><small> I have moved this blog from blogspot to wordpress. </small></p>
+I keep my late-night thoughts on this blog.  Some of these blogs are listed here.
+
+<h3>Personal </h3>
+<ul class='blog'>
+<li> I have written about my M. Tech. life : <a
     href="http://wp.me/p2Ob7E-S">Matka (M. Tech. @ IIT Bombay</a> 
-</br>
-</br>
+</li>
 
-I felt that Indians' lack of interest in writing well-structured prose is
-widespread. Here are some thoughts on it <a
-	href="http://dilawarrajput.wordpress.com/2011/08/writing-and-speaking.html">Writing
-	and Speaking</a>. I also find their habit of making groups like dogs and
-wolves slightly amusing, <a
-    href="http://dilawarrajput.wordpress.com/2011/05/privacy--and-secrecy-among-indians.html">Privacy,
-	Secrecy and Indians</a>.
 
-</br>
-</br>
+<li> 
 I am possibly the youngest Nehruvian alive. Nehru, from being a hero in his
-time, is now reduced to a zero. See  <a href="http://wp.me/p2Ob7E-16">The Most Unlikely Villain : Jawahar Lal Nehru</a>.
-</br>
-</br>
-There is something about my village <a href="http://dilawarrajput.wordpress.com/2010/04/tale-of-my-village-sort-of.html">Tale of my Vilalge; sort of</a> and about my primary school <a href="http://dilawarrajput.wordpress.com/2010/03/primary-school-nichalpur.html">Primary School Nichalpur.</a>
-</br>
-</br>
-Life of a farmer is always hard and leaving this life is harder <a href="http://dilawarrajput.wordpress.com/2010/10/its-tough-being-in-farming-impossible.html">It tough being in farming, impossible to leave it</a>.
-</br>
-</br>
-Here is a rant on <a
+time, is now reduced to a zero :  <a href="http://wp.me/p2Ob7E-16">The Most Unlikely Villain : Jawahar Lal Nehru</a>.
+</li>
+
+<li>
+Something about my village : <a 
+href="http://dilawarrajput.wordpress.com/2010/04/tale-of-my-village-sort-of.html">Tale 
+of my Vilalge; sort of</a> and about my primary school : <a 
+href="http://dilawarrajput.wordpress.com/2010/03/primary-school-nichalpur.html">Primary 
+School Nichalpur.</a>
+</li>
+
+<li>
+Life of a farmer is always hard and leaving this life is harder : <a href="http://dilawarrajput.wordpress.com/2010/10/its-tough-being-in-farming-impossible.html">It tough being in farming, impossible to leave it</a>.
+</li>
+
+<li>
+A rant on <a
 	href="http://wp.me/p2Ob7E-15">Indian
-	Middle Class</a>. And also an open letter to <a
+	Middle Class</a> and an open letter to <a
 	href="http://wp.me/p2Ob7E-q">riches/would-be-riches
-	of India.</a>. I am not at all warm to our middle class.
-</br>
-</br>
+	of India.</a>. 
+</li>
+
+<li>
 I like logarithms and prefer them over linear scales <a
 	href="http://dilawarrajput.wordpress.com/2011/02/lobbying-for-logarithms.html">Lobbying
 	for logarithm</a> and I've found languages interesting <a
 	href="http://dilawarrajput.wordpress.com/2010/09/whats-there-in-language.html">What's
-	there in Language</a>. I have collected some notes on <a
+  there in Language</a>. I have collected some notes on <a
 	href="http://dilawarrajput.wordpress.com/2012/04/25/the-curious-case-of-happiness.html">curious
-	case of happiness.</a>.
-</br>
-</br>
-Ok, I hate Times of India, so here is some rant about it <a
+  case of happiness</a>.
+</li>
+
+<li>
+I hate Times of India, so here are some reasons : <a
 	href="http://dilawarrajput.wordpress.com/2010/10/times-of-idiots.html">Times of
-	Idiots</a>. And something is <a
-	href="http://dilawarrajput.wordpress.com/2012/03/in-praise-of-sachin-tendulkar.html">
+	Idiots</a>. 
+</li>
+
+<li>
+  I have never admired Sachin Tendular but there is something in him which I liked very much : 
+<a href="http://dilawarrajput.wordpress.com/2012/03/in-praise-of-sachin-tendulkar.html">
 	In praise of Sachin Tendulkar</a>.
-</br>
-</br>
+</li>
+</ul>
+
+<h3> Society </h3>
+<ul class='blog'>
+<li> I feel that our lack of interest in writing well-structured prose is
+widespread. Here are some thoughts on it : <a href="http://dilawarrajput.wordpress.com/2011/08/writing-and-speaking.html">Writing
+  and Speaking</a>. 
+</li>
+
+<li> I find their disregard of privacy widespread and their habit of making groups amusing : <a
+    href="http://wp.me/p2Ob7E-2i">Privacy and secrecy.</a>
+</li>
+
+<li>
+Why there is so much tutelage of women in India. How a male percieve women : <a
+    href="http://wp.me/p2Ob7E-2W">Thinking of women</a>.
+</li>
+
+</ul>
+
+<h3> Institutes and academia </h3>
+<ul class='blog'>
+<li>
 Some blogs on IIT Bombay : <a
 	href="http://dilawarrajput.wordpress.com/2010/10/why-i-like-this-tarnished-jewel-iit.html">Why
 	I like this tarnished jewel</a> and <a
@@ -82,36 +92,29 @@ Some blogs on IIT Bombay : <a
 also my views on Jairam Ramesh comments about IITs <a
 	href="http://dilawarrajput.wordpress.com/2011/05/24/narcissism-of-the-neurotics.html">Narcissism
 	of the neurotics</a>.
-</br>
-</br>
-Since I plan to remain in academics, I wanted to justify my choice <a
+</li>
+<li>
+Since I plan to remain in academics : <a
     href="http://wp.me/p2Ob7E-1b">Seeking a career in declining profession</a>. 
-And here is my reflection on <a
+</li>
+
+<li>
+What I felt  <a
 	href="http://wp.me/p2Ob7E-1v">being a teaching assistant </a>and my  <a
-	href="http://wp.me/p2Ob7E-27">viva policies.</a>. And most importantly, <a
+  href="http://wp.me/p2Ob7E-27">viva policies.</a>. 
+</li>
+
+<li>
+'Good Indian and good Chinese, if they have lived a virtuous life', observed one of our psychologist, 'have started going not to heaven but to New York' : <a
   href="http://wp.me/p2Ob7E-2U">self-reliance of Indian intellectuals</a>
-</br>
-<br>
-And of-course, I have been <a
-    href="http://wp.me/p2Ob7E-2W">thinking of women</a>.
-<br>
-<br>
-Etc. etc..
+</li>
+</ul>
 
-
-<h4>Technical Blog </h4>
+<h2>Technical Blog </h2>
 <a href="http://dilawarnotes.wordpress.com" target="_blank">Dilawar's
-	Notes</a>. Here I keep my academic stuff. Now, I am very active here. Here,
-you can criticize me to death.
+	Notes</a>. Here I keep my academic stuff. Now, I am very active here.
 <br>
 
-<h4> Pass the notes </h4>
-<a href="http://dilawars.wordpress.com" target="_blank">Notes on
-	Anything</a>. Here I keep notes on almost anything which are not suitable to
-put up in any of the above blogs. 
-<br>
+<h2> Fragments of time </h2>
+<a href="http://dilawars.wordpress.com" target="_blank">Fragments of time</a> is a collection of quotes, article etc. which I found to be very interesting. 
 
-<h4> Yet some more notes </h4>
-You can find my almost all of my notes <a href="Writing_Files"> here
-</a>
-</body>
