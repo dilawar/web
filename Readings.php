@@ -1,34 +1,15 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE>Dilawar Singh</TITLE>
-	<link rel="stylesheet" href="About_Files/dilawar.css">
-	</HEAD><body _textfied="true">
-
-<!-- Site navigation menu -->
-<ul class="navbar">
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/index.php">Home</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/About.html">About</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/Research.html">Research</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/Writings.html">Writings</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/Readings.html">Readings</a></li>
-  <li><a href="http://www.ee.iitb.ac.in/student/%7Edilawar/Resources.php">Resources</a></li>
-</ul>
-
+<?php 
+include('header.php');
+?>
 <!-- Main content -->
 <h2>Dilawar Singh</h2>
-
-
 <h3>Readings</h3>
 <b>Magazines and Newspapers</b>
 <br>
-<br>
-Here are some of the readings which has shaped me throughout my life. You may
-also like them.
-<BR>
+<p> Here are some of the readings which has shaped me throughout my life. You may
+also like them. </p>
 
-<table>
+<table class='magazines'>
 	<tr> <td> <a href="http://www.thehindu.com"
 			TARGET="_blank">The Hindu</a> </td><td>People call it 'left leaning' but if there is nothing 'right' in this 'left biased newspaper' then nothing left in
 		'right wing opinion'.  Personally, I do not see anything like that. </td></tr>
@@ -44,22 +25,23 @@ also like them.
 			target="_blank">Frontline.</a></td></tr>
 </table>
 <br>
-<b>Books </b>
-<br>
-<br>
 
+<b>Books </b>
+
+<p>
 Books have been integral part of my life, and I can't imagine my life without
 them. Some of the books I love are listed here. Only few of the fiction are
 mentioned here. I no longer read fiction. I wish to write review of all of these
 books. If you promise me to return, you can borrow any of these books. 
 Books which I have read in library of on Internet, are not mentioned here. In
-other words, I own these books.
+other words, I own these books. </p>
 
 <br>
 <br>
-<table border=1>
+<table class='books'>
 	<tr><td> Ideology and Social Science</td><td> Andre Beteille.</td></tr>
 	<tr><td> Chronicle of our time </td><td> Andre Beteille.</td></tr>
+	<tr><td> Sunshine on garden </td><td> Andre Beteille.</td></tr>
 	<tr><td> India After Gandhi</td><td> Ramachandra Guha </td></tr>
 	<tr><td> The Maker of Modern India </td><td>Ramachandra
 			Guha</td></tr>
@@ -70,7 +52,7 @@ other words, I own these books.
 	<tr><td> Universities at the Crossroads </td><td>Andre Beteille </td></tr>
 	<tr><td> 1857 </td><td>Economic and Political Weekly</td></tr>
 	<tr><td> Early India </td><td>Romilla Thapar </td></tr>
-	<tr><td> Works of </td><td>Oscar Wilde, Premchand, Dinker, Jaishankar Prasad, Sharatchandra</td> </tr>
+	<tr><td> Some works of </td><td>Oscar Wilde, Premchand, Dinker, Jaishankar Prasad, Sharatchandra</td> </tr>
 	<tr><td> India</td><td> Shashi Tharoor </td></tr>
 	<tr><td>  Midnights Children </td><td>Salman Rushdie </td></tr>
 	<tr><td>  My name is Red </td><td>Orhan Pamuk </td></tr>
