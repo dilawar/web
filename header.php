@@ -18,4 +18,24 @@ $header .= '<li><a href="Resources.php">Resources</a></li>';
 $header .= '</ul>';
 $header .= '</HEAD>';
 echo $header;
+
+class MyDB extends SQLite3 
+{
+  function __construct()
+  {
+    $this->open("visitors.db");
+  }
+}
+//
+//$db = MyDB;
+//$db->exec("CREATE TABLE IF NOT EXISTS stat 
+//  (total INT NOT NULL AUTOINCREAMENT 
+//  , ip CHARACTER NOT NULL DEFAULT ''
+//  , agent VARCHAR
+//  , ref VARCHAR 
+//  , time DATETIME NOT NULL DEFAULT '0000-00-00 00:00:00'
+//  , uri VARCHAR NOT NULL DEFAULT ''
+//  , PRIMARY KEY (total)
+//)");
+//
 ?>
