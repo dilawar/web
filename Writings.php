@@ -116,5 +116,7 @@ What I felt  <a
 <br>
 
 <h2> Fragments of time </h2>
-<a href="http://dilawars.wordpress.com" target="_blank">Fragments of time</a> is a collection of quotes, article etc. which I found to be very interesting. 
+
+<a href="http://dilawars.wordpress.com" target="_blank">Fragments of time</a> is 
+a collection of quotes, articles etc which I found to be interesting. 
 
