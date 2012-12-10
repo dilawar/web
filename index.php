@@ -13,9 +13,9 @@ advisor (therefore a duckling) on <tt>Fabrication of microelectode arrays for
 retinal prosthesis</tt>.  I joined back the department in August 2011 for 
 pursuing a doctorate.</p>
 
-<p>These days, I work in <a href="www.ee.iitb.ac.in/~hpc">High Performance 
-Computation lab</a></b>, less commonly known as <b>L.W.C.A </b>(Lab Without a 
-Cool Acronym).  </p>
+<p>These days, I work in newly established <a 
+href="http://www.ee.iitb.ac.in/~hpc">High Performance Computation lab</a></b>, 
+less commonly known as <b>L.W.C.A </b>(Lab Without a Cool Acronym).  </p>
 
 <h3> Internship and project </h3>
 
