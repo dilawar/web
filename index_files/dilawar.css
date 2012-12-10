@@ -84,3 +84,8 @@ table.magazines
   font-size:12px;
   background-color:#fffccc;
 }
+
+body.history 
+{
+  background-color:#FFFccc;
+}

@@ -41,6 +41,7 @@ English grammar and during my pursuit of English, somewhere I lost my grip over
 <p>If by any chance you are a Historian or Anthropologist, here is my brief history. 
 </p>
 
+<h3> A brief history of Dilawar </h3>
 <p class='history'>
 My ancestor were so happy living in Iran. <a
 	href="http://en.wikipedia.org/wiki/Avestan_language">Avestan</a> was their
