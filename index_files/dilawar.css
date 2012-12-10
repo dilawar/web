@@ -1,9 +1,8 @@
 body {
 	padding-left: 11em;
-	font-family: Helvetica, Georgia, "Times New Roman",
-	Times, serif;
-	color: black;
-	background-color: white;}
+  font-size:14px;
+}
+
 ul.navbar {
 	position: absolute;
 	top : 2em;
