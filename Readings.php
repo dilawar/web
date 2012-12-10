@@ -11,18 +11,17 @@ also like them. </p>
 
 <table class='magazines'>
 	<tr> <td> <a href="http://www.thehindu.com"
-			TARGET="_blank">The Hindu</a> </td><td>People call it 'left leaning' but if there is nothing 'right' in this 'left biased newspaper' then nothing left in
-		'right wing opinion'.  Personally, I do not see anything like that. </td></tr>
+			TARGET="_blank">The Hindu</a> </td><td>People used to brand it 'left leaning' and 'pro-China'. Now the biggest China-hater has turned into China-lovers, and this newspaper remained the same. </td></tr>
  </tr> <td> <a href="http://www.india-seminar.com" target="_blank">Seminar
- Magazine</a> </td></tr>
+ Magazine</a> </td> <td>This is one of the our finests. </td> </tr>
 <tr> <td>  <a href="http://www.guardian.co.uk" target="_blank">Guardian
 		Newspaper</a> </td><td>Especially It's CIF section (comment is free but facts are sacred.) You may like it's Science, Technology, and Culture sections.</td></tr>
 <tr> <td> <a href="http://epw.in" target="_blank">Economic and Political Weekly </a> </td><td>A Marxist magazine - A must read for anyone interested in either economics or politics. </td></tr>
 <tr> <td> <a href="http://www.indiatogether.org" TARGET="_blank">India
-			Together</a></td></tr>
+			Together</a></td> <td>For alternative journalism.</td> </tr>
 <tr><td>  <a href="http://www.littlemag.com" target="_blank">The little Magazine.</a> </td><td>This is great for those who like literature (Lovers of pulp fiction, stay away...) </td></tr>
 <tr> <td>  <a href="http://www.frontline.in"
-			target="_blank">Frontline.</a></td></tr>
+			target="_blank">Frontline.</a> <td>Jewel from the publisher of The Hindu.</td></td></tr>
 </table>
 <br>
 
@@ -36,8 +35,6 @@ books. If you promise me to return, you can borrow any of these books.
 Books which I have read in library of on Internet, are not mentioned here. In
 other words, I own these books. </p>
 
-<br>
-<br>
 <table class='books'>
 	<tr><td> Ideology and Social Science</td><td> Andre Beteille.</td></tr>
 	<tr><td> Chronicle of our time </td><td> Andre Beteille.</td></tr>
@@ -103,5 +100,4 @@ other words, I own these books. </p>
 	<tr> <td> A reader in subaltern studies </td><td> Ranajit Guha </td></tr>
 
 </table>
-<br>
-If you liked a book very much, please let me know. I'd love to read it.
+<p>If you liked a book very much, please let me know. I'd love to read it.</b>

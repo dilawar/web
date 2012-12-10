@@ -48,3 +48,32 @@ h3{
 pad{
 	padding-left:2em;
 }
+
+td:first-child 
+{ 
+  text-align : right;
+  width:200px;
+  font-weight:bold;
+  font-size:13px;
+}
+table.books 
+{
+  width : 400px;
+  position:relative;
+  font-size:12px;
+  background-color:#FFFccc;
+}
+
+td
+{
+  border-bottom:1px;
+  border-bottom-style:dotted;
+}
+
+table.magazines 
+{
+  width : 500px;
+  position:relative;
+  font-size:12px;
+  background-color:#fffccc;
+}
