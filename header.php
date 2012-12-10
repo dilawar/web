@@ -27,7 +27,7 @@ function sqlite_open()
 
 $conn = sqlite_open();
 $conn->exec("CREATE TABLE IF NOT EXISTS stats
-  (total INT AUTOINCREAMENT 
+  (id INTEGER PRIMARY KEY  
   , ip CHARACTER NOT NULL DEFAULT ''
   , agent VARCHAR
   , ref VARCHAR 
@@ -49,8 +49,8 @@ function insertIntoDB()
   $time = $_SERVER['REQUEST_TIME'];
   $sid = $_SERVER['HTTP_COOKIE'];
   $conn = sqlite_open();
-  $conn->exec("REPLACE INTO stats (ip, agent, time, uri, sid, ref)
-    VALUES ('$remote', '$agent', '$time', '$uri', '$sid', '$ref')");
+  $conn->exec("REPLACE INTO stats (id, ip, agent, time, uri, sid, ref)
+    VALUES ('NULL', '$remote', '$agent', '$time', '$uri', '$sid', '$ref')");
   $conn->close();
 }
 
