@@ -19,23 +19,40 @@ $header .= '</ul>';
 $header .= '</HEAD>';
 echo $header;
 
-class MyDB extends SQLite3 
+function sqlite_open()
 {
-  function __construct()
-  {
-    $this->open("visitors.db");
-  }
+  $conn = new SQLite3('visitors.db');
+  return $conn;
 }
-//
-//$db = MyDB;
-//$db->exec("CREATE TABLE IF NOT EXISTS stat 
-//  (total INT NOT NULL AUTOINCREAMENT 
-//  , ip CHARACTER NOT NULL DEFAULT ''
-//  , agent VARCHAR
-//  , ref VARCHAR 
-//  , time DATETIME NOT NULL DEFAULT '0000-00-00 00:00:00'
-//  , uri VARCHAR NOT NULL DEFAULT ''
-//  , PRIMARY KEY (total)
-//)");
-//
+
+$conn = sqlite_open();
+$conn->exec("CREATE TABLE IF NOT EXISTS stats
+  (total INT AUTOINCREAMENT 
+  , ip CHARACTER NOT NULL DEFAULT ''
+  , agent VARCHAR
+  , ref VARCHAR 
+  , time DATETIME NOT NULL DEFAULT '0000-00-00 00:00:00'
+  , uri VARCHAR DEFAULT ''
+  , sid VARCHAR NOT NULL
+  , PRIMARY KEY (total))");
+$conn->close();
+
+function insertIntoDB()
+{
+  if(array_key_exists('HTTP_REFERER', $_SERVER))
+    $ref = $_SERVER['HTTP_REFERER'];
+  else 
+    $ref = '';
+  $remote = $_SERVER['REMOTE_ADDR'];
+  $agent = $_SERVER['HTTP_USER_AGENT'];
+  $uri = $_SERVER['REQUEST_URI'];
+  $time = $_SERVER['REQUEST_TIME'];
+  $sid = $_SERVER['HTTP_COOKIE'];
+  $conn = sqlite_open();
+  $conn->exec("REPLACE INTO (ip, agent, time, uri, sid, ref )
+    VALUES ('$remote', '$agent', '$time', '$uri', '$sid', '$ref')");
+  $conn->close();
+}
+
+
 ?>

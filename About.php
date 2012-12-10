@@ -1,5 +1,6 @@
 <?php
 include("header.php");
+insertIntoDB();
 ?>
 <!-- Main content -->
 <h2>Dilawar Singh</h2>

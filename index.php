@@ -1,12 +1,6 @@
 <?php
 include('header.php');
-$db = new MyDB;
-
-$remote = $_SERVER['REMOTE_ADDR'];
-$uri = $_SERVER['REQUEST_URI'];
-echo $remote;
-
-
+insertIntoDB();
 ?>
 <H2>Dilawar Singh</H2>
 
