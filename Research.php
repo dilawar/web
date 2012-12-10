@@ -1,5 +1,5 @@
 <?php
-include('header.php')
+include('header.php');
 insertIntoDB();
 ?>
 <h2>Dilawar Singh</h2>

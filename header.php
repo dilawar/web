@@ -49,7 +49,7 @@ function insertIntoDB()
   $time = $_SERVER['REQUEST_TIME'];
   $sid = $_SERVER['HTTP_COOKIE'];
   $conn = sqlite_open();
-  $conn->exec("REPLACE INTO (ip, agent, time, uri, sid, ref )
+  $conn->exec("REPLACE INTO stats (ip, agent, time, uri, sid, ref)
     VALUES ('$remote', '$agent', '$time', '$uri', '$sid', '$ref')");
   $conn->close();
 }
