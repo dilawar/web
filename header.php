@@ -22,11 +22,7 @@ echo $header;
 function sqlite_open()
 {
   $conn = new SQLite3('visitors.db');
-  return $conn;
-}
-
-$conn = sqlite_open();
-$conn->exec("CREATE TABLE IF NOT EXISTS stats
+  $conn->exec("CREATE TABLE IF NOT EXISTS stats
   (id INTEGER PRIMARY KEY  
   , ip CHARACTER NOT NULL DEFAULT ''
   , agent VARCHAR
@@ -35,7 +31,8 @@ $conn->exec("CREATE TABLE IF NOT EXISTS stats
   , uri VARCHAR DEFAULT ''
   , sid VARCHAR NOT NULL
   , PRIMARY KEY (total))");
-$conn->close();
+  return $conn;
+}
 
 function insertIntoDB()
 {
@@ -50,7 +47,7 @@ function insertIntoDB()
   $sid = $_SERVER['HTTP_COOKIE'];
   $conn = sqlite_open();
   $conn->exec("REPLACE INTO stats (id, ip, agent, time, uri, sid, ref)
-    VALUES ('NULL', '$remote', '$agent', '$time', '$uri', '$sid', '$ref')");
+    VALUES ((SELECT max(id) FROM stats)+1, '$remote', '$agent', '$time', '$uri', '$sid', '$ref')");
   $conn->close();
 }
 
