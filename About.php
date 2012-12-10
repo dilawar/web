@@ -29,14 +29,13 @@ and street dogs. I do not know how to swim but dream of swimming across
 at her puppies and by Gangaram's horse on my back for no obvious reason reason. 
 I really hate Gangaram. </p>  
 
-<p>I do not have a profile on any social network site and 
-I never got sunburns. I can do farming and love walking in campus on <i>Then 
-Thinking Road</i> which connects my hostel and my department.  </p>
-
-<p> Since my childhood, I have consumed more than 8659 liters of cow's milk. I have
-never played any musical instruments and have stopped singing after hearing my
-own recordings. I just love Indian Ocean, especially Sushmit Guitar. I have
-trouble with English grammar and in my pursuit of English, I lost my grip over
+<p>I do not have a profile on any social network site and I never got sunburns. 
+I can do farming and love walking in campus on <i>Then Thinking Road</i> which 
+connects my hostel and my department.  </p> <p> Since my childhood, I have 
+consumed more than 8659 liters of cow's milk. I have never played any musical 
+instruments and have stopped singing after hearing my own recordings. I just 
+love Indian Ocean, especially Sushmit Sen's guitar playing. I have trouble with 
+English grammar and during my pursuit of English, somewhere I lost my grip over 
 <i>Hindi</i>. I'd love to be emotionally bilingual.</p>
 
 <p>If by any chance you are a Historian or Anthropologist, here is my brief history. 
