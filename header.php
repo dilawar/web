@@ -1,5 +1,7 @@
 <?php 
 session_start();
+error_reporting(E_ALL);
+
 $base_url = "http://10.107.105.13/";
 $_SESSION['url'] = $base_url;
 $header = "<!DOCTYPE HTMddL PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN'>";
