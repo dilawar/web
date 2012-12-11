@@ -20,8 +20,8 @@ less commonly known as <b>L.W.C.A </b>(Lab Without a Cool Acronym).  </p>
 
 <h3> Internship and project </h3>
 
-<p> If you are looking for an internship or some project in this lab then you 
-are most welcome to contact <a href="mailto:dilawar@ee.iitb.ac.in">me</a> or to <a 
+<p> If you are looking for internship or some project in this lab then you 
+are most welcome to contact <a href="mailto:dilawar@ee.iitb.ac.in">me</a> or <a 
 href="http://www.ee.iitb.ac.in/~hpc/people.html">other lab members</a> for details. You 
 should also browse <a href="http://www.ee.iitb.ac.in/wiki/faculty/patkar"> Prof.  
 Patkar's web page </a>to know more about lab activities.</p>
