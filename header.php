@@ -45,6 +45,7 @@ function insertIntoDB()
   $agent = $_SERVER['HTTP_USER_AGENT'];
   $uri = $_SERVER['REQUEST_URI'];
   $time = $_SERVER['REQUEST_TIME'];
+  $time = strtotime($time);
   $sid = $_SERVER['HTTP_COOKIE'];
   $conn = sqlite_open();
   $conn->exec("REPLACE INTO stats (id, ip, agent, time, uri, sid, ref)
