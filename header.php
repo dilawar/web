@@ -44,11 +44,10 @@ function insertIntoDB()
   $remote = $_SERVER['REMOTE_ADDR'];
   $agent = $_SERVER['HTTP_USER_AGENT'];
   $uri = $_SERVER['REQUEST_URI'];
-  $time = $_SERVER['REQUEST_TIME'];
   $sid = $_SERVER['HTTP_COOKIE'];
   $conn = sqlite_open();
   $conn->exec("REPLACE INTO stats (id, ip, agent, time, uri, sid, ref)
-    VALUES ((SELECT max(id) FROM stats)+1, '$remote', '$agent', '$time', '$uri', '$sid', '$ref')");
+    VALUES ((SELECT max(id) FROM stats)+1, '$remote', '$agent', datetime('now'), '$uri', '$sid', '$ref')");
   $conn->close();
 }
 

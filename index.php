@@ -10,7 +10,7 @@ Electrical Engineering</a>. I took my undergraduate degree in
 Chennai. I did my <tt>Master in Technology</tt> in <tt>Microelectronics and 
 VLSI</tt> from this institute during 2007-09. <a 
 href="http://www.ee.iitb.ac.in/wiki/faculty/dinesh">DuKS</a> was my thesis 
-advisor (therefore a duckling) on <tt>Fabrication of microelectode arrays for 
+advisor (therefore I am a duckling) on <tt>Fabrication of microelectode arrays for 
 retinal prosthesis</tt>.  I joined back the department in August 2011 for 
 pursuing a doctorate.</p>
 
