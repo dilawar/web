@@ -29,8 +29,7 @@ function sqlite_open()
   , ref VARCHAR 
   , time DATETIME NOT NULL DEFAULT '0000-00-00 00:00:00'
   , uri VARCHAR DEFAULT ''
-  , sid VARCHAR NOT NULL
-  , PRIMARY KEY (total))");
+  , sid VARCHAR NOT NULL)");
   return $conn;
 }
 
