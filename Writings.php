@@ -48,7 +48,7 @@ I like logarithms and prefer them over linear scales <a
 	for logarithm</a> and I've found languages interesting <a
 	href="http://dilawarrajput.wordpress.com/2010/09/whats-there-in-language.html">What's
   there in Language</a>. I have collected some notes on <a
-	href="http://dilawarrajput.wordpress.com/2012/04/25/the-curious-case-of-happiness.html">curious
+	href="http://dilawarrajput.wordpress.com/2012/04/25/the-curious-case-of-happiness.html">The curious
   case of happiness</a>.
 </li>
 
@@ -68,8 +68,7 @@ I hate Times of India, so here are some reasons : <a
 <h3> Society </h3>
 <ul class='blog'>
 <li> I feel that our lack of interest in writing well-structured prose is
-widespread. Here are some thoughts on it : <a href="http://dilawarrajput.wordpress.com/2011/08/writing-and-speaking.html">Writing
-  and Speaking</a>. 
+widespread. Here are some thoughts on it : <a href="http://dilawarrajput.wordpress.com/2011/08/writing-and-speaking.html">Writing and Speaking</a>. 
 </li>
 
 <li> I find their disregard of privacy widespread and their habit of making groups amusing : <a
@@ -78,7 +77,7 @@ widespread. Here are some thoughts on it : <a href="http://dilawarrajput.wordpre
 
 <li>
 Why there is so much tutelage of women in India. How a male percieve women : <a
-    href="http://wp.me/p2Ob7E-2W">Thinking of women</a>.
+    href="http://wp.me/p2Ob7E-2W">Perceptions of woman</a>.
 </li>
 
 </ul>
@@ -107,7 +106,7 @@ What I felt  <a
 
 <li>
 'Good Indian and good Chinese, if they have lived a virtuous life', observed one of our psychologist, 'have started going not to heaven but to New York' : <a
-  href="http://wp.me/p2Ob7E-2U">self-reliance of Indian intellectuals</a>
+  href="http://wp.me/p2Ob7E-2U">Self-reliance of intellectuals</a>
 </li>
 </ul>
 
