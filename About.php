@@ -14,14 +14,14 @@ TARGET="_blank">Dilawar</A> ( <FONT FACE="DejaVu Sans"><SPAN LANG="zxx">दि�
   spoken by a pretty girl. In my childhood, I did not like my name. 
 It was way too <i>  heavy </i> to carry around.</p>
 
-<p> Though my life speaks for itself but most of the time it has poor grammar. 
-Following are most of my accomplishments and deeds I've done. </p>
+<p> Though my life speaks for itself, it suffers from poor grammar most of the 
+time. Anyway, here are most of my accomplishments and deeds I've done. </p>
 
 <p>The only video game I have ever completed is <tt>IGI-2</tt>. I have never 
 played <tt>Mario-2 </tt>but loved <tt>Need for Speed - Hot Pursuit</tt>. I have 
 never ever been accused of <tt>Grand Theft Auto</tt>. I have lived in 3 states 
-of India and never been abroad. I contend that I am not running away from 
-anyone.  My current mobile number has 7 prime factors and I once wrote a 
+of India and I don't have a passport. I contend that I am not running away from 
+anyone.  My current mobile number has 3 prime factors and I once wrote a 
 love-letter to a girl and waited for an answer for at least 6 months, therefore, 
 I proved that <tt>love-letters</tt> do not always work.  I never rode an 
 elephant, donkey or a horse, although in my childhood I did ride buffaloes, cows 
@@ -30,14 +30,16 @@ and street dogs. I do not know how to swim but dream of swimming across
 at her puppies and by Gangaram's horse on my back for no obvious reason reason. 
 I really hate Gangaram. </p>  
 
-<p>I do not have a profile on any social network site and I never got sunburns. 
+<p>I do not have a profile on any social network site and I've never got sunburns. 
 I can do farming and love walking in campus on <i>Then Thinking Road</i> which 
-connects my hostel and my department.  </p> <p> Since my childhood, I have 
-consumed more than 8659 liters of cow's milk. I have never played any musical 
-instruments and have stopped singing after hearing my own recordings. I just 
-love Indian Ocean, especially Sushmit Sen's guitar playing. I have trouble with 
-English grammar and during my pursuit of English, somewhere I lost my grip over 
-<i>Hindi</i>. I'd love to be emotionally bilingual.</p>
+connects my hostel and my department.  </p> 
+
+<p> Since my childhood, I have consumed more than 8659 liters of cow's milk. I 
+have never played any musical instrument and have stopped singing after listening to 
+my own recordings. I love Indian Ocean (the band), especially Sushmit Sen's guitar. 
+I am always in trouble with English grammar and during my pursuit of English, 
+somewhere I've lost my grip over <i>Hindi</i>. I'd love to be emotionally 
+bilingual.</p>
 
 <p>If by any chance you are a Historian or Anthropologist, here is my brief history. 
 </p>
@@ -50,20 +52,23 @@ mother tongue. It was written right to left and have a strong emphasis on minute
 phonological differences. </p>
 
 <p class='history'>
-One day I don't know what happened, a group of dissidents broke away. They were
-literally pissed off. Why? Hard to say! May be because they were dissidents and
-did not like others hushing them up. Or may be, they were just pissed off. They
-decided that they must leave and start their own. It could well had been a case
+One day something happened, a group of dissidents broke away. They were
+pissed off. Why? Hard to say! May be because they were dissidents and
+did not like others hushing them up. Or perhaps, they were just pissed off. Or 
+they thought they should discover new lands. Or they could no longer survive on 
+their land. They decided that they must leave and start their own. It could well 
+had been a case
 of 'get lost you ass*****". But whatever was the case, they did not like the
 <i>status-quo.</i>. </p>
 
-<p class='history'> So they took their horses and came to settle in North India. 
-Few of them migrated to Europe and now known as <i>German</i>. They called 
-themselves '<a href="http://en.wikipedia.org/wiki/Arya">aryan</a>' which was 
-derived from <i>Avestan</i>. They might have displaced a large number of '<a 
+<p class='history'> So they took their horses, travelled through Himalyas, and 
+came to North India.  Few of them migrated to Europe and now known as 
+<i>Germans</i>. They called themselves '<a 
+href="http://en.wikipedia.org/wiki/Arya">aryan</a>' which was derived from 
+<i>Avestan</i>. They might have displaced a large number of '<a 
 href="http://en.wikipedia.org/wiki/Dravidians">Dravidian</a>' over there who are 
 claimed to be the native of this land.<i> Dravidians</i> now live in South India 
-and are proud of their longest surviving 'culture' despite of this colossal 
+and are proud of their longest surviving 'culture' despite of this
 plundering (if happened). </p>
 
 <p class='history'>
@@ -84,8 +89,8 @@ know why, they did not like the sound of 'h'. They replace 'h' with 's'. So
 stop here, often the meaning of gods were also reserved, . Not
 surprisingly,&nbsp;<i>Ahura</i>&nbsp;were gods in <i>Avestan</i>,
 <i>Asura</i>&nbsp;is the demon in Sanskrit. <i>Indira</i> is king of god for the
-Sanskrit, He was demon for the Avestan. Seriously something really bad must have
-haveened among them. In fact old Avestan is <a href="http://www.ancientscripts.com/avestan.html"> 
+Sanskrit, He was demon for the Avestan. Something really bad must have
+happened among them. In fact old Avestan is <a href="http://www.ancientscripts.com/avestan.html"> 
 similar to the oldest Sanskrit</a>. You can translate text in one language to another by anotherlying few phonological changes</a>. Like so:
 
 <p class='history'>
@@ -119,11 +124,11 @@ with caste-system</a>. Arya in this age came to mean 'the noble'. Why?  Elites
 were not in 'agriculture' so they changed the meaning to reclaim this title. So 
 few of my ancestor became noble, and those who did farming were considered 
 <tt>mlichcha</tt> (the lower one, not-pure). The Sanskrit was refined in this 
-period and the best grammar in the world was written by <a 
+period and the best grammar ever written was written by <a 
 href="http://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini">Panini</a>. Indian 
 intellectual traditon in those days was too exclusive in nature. Learning of 
-Sanskrit was the prerogative of few. Needless to say, a new language was evolved 
-which is called <i><a
+Sanskrit was the prerogative of few. But everyone needs a language. Needless to 
+say, a new language was evolved which is called <i><a
     href="http://en.wikipedia.org/wiki/Prakrit">Prakrit</a></i>.
 <i>Prakrit</i>&nbsp;was spoken by the masses and <i>Sanskrit</i> was reserved as
 the language of learning and scholarship.  Pratrik was considered a language of 
@@ -132,31 +137,32 @@ even these days, Sanskrit is replaced by English in letter and spirit. The
 language which evolved from <i>Prakrit</i>&nbsp;(e.g. Hindi and its relatives)
 is now spokes by masses and considered the language of <tt>malichcha</tt> by
 English-speaking elites (never mind the lip-services to their mother tounge 
-which largely comes from
-the slight&nbsp;embarrassment for not being able to honour their mother-tongue.)
+which largely comes from the slight&nbsp;embarrassment for not being able to 
+honour their mother-tongue.)
 </p>
 
 <p class='history'>
 My ancestors were curious about universe. Their knowledge was centered
-around the universe. Astrology and Mathematics were intertwined. Whatever they
-knew, they put it in <tt>Vedas</tt> which literally meant 'to know'. This was their
-science. I feel proud of them. When 'Vedas' came to end, they called it
+around the universe. Whatever they
+knew about their world, they put it in <tt>Vedas</tt> which literally meant 'to 
+know'. This was their religious text as well as science. I feel proud of them. 
+When 'Vedas' came to end, they called it
 Vedanta : 'the end of knowing'. Why would they do that? I can not say! Perhaps
 they stopped appreciating the changes. Perhaps that was the worst thing to 
 happen in our intellectual life. </p>
 
 <p class='history'>
-Since then my ancestor lost sight of the way they were going. Hinduism was never
+Then my ancestor lost sight of the way they were going. Hinduism was never
 a religion; it was considered a way of life. Now it has been downgraded to a
 religion and people fight over it everyday almost all the time - in fact there
 was a time in which the most narrowed version of Hinduism (so called Hindutva) came to
 fore. Perhaps the strongest quality of Hinduism lies in its chaotic nature for
-allowing every kind of infusion into it, that is why it survived (to quote <a
-  href="http://en.wikipedia.org/wiki/Ashis_Nandy">Ashish Nandy</a>).
+allowing every kind of infusion into it.
 </p>
 
 <p class='history'>
-Living in a rich and fertile land is not without any danger. Lot of people vie for such lands. Han
+Living on the rich and fertile lands is not without dangers. Lot of people vie 
+for such lands. Han
 Chinese attacked these lands. Few stayed, married here, and settled down in the
 places <a href="http://en.wikipedia.org/wiki/Indo-Scythian">called Haryana,
   Punjab and near by</a>&nbsp; areas. Few of them are known as <i><a
@@ -167,25 +173,27 @@ to India and few of his soldiers stayed here. They married local princess.
   href="http://en.wikipedia.org/wiki/Chauhan">Chauhans</a>. They have a rich
 tradition and not to mention larger than life Chauhan king, the <a
   href="http://en.wikipedia.org/wiki/Prithvi_Raj_Chauhan">Prithviraj Chauhan</a>
-who is fondly remember for his valour among old and for his
+who is still fondly remember for his valour and for his
 love affair with princess <a
-  href="http://en.wikipedia.org/wiki/Sanyogita">Sanyogitika</a> among the teens. My forefathers
-belongs to this clan. Chauhans are generally considered soft in nature, quite a
+  href="http://en.wikipedia.org/wiki/Sanyogita">Sanyogitika</a>. My forefathers
+belongs to this clan. Many of them are not proud of anything anymore and poverty 
+has taken a toll on their pride and confidence. Yet something still serives. 
+Chauhans are generally considered soft in nature, quite a
 painful insinuation in the land which is surrounded by more feudal clans
-of<i>Jats, Vishnoi, Thakurs, Chaudhiry</i> etc. This is perhaps 
-due to the fact that domestic violence is the lowest among them. So the
+of <i>Jats, Vishnoi, Thakurs, Chaudhiry</i> etc. This is perhaps due to the fact 
+that domestic violence is the lowest among them. So the
 childhood is passed without witnessing much violence and that mellowed them
 down. They had a long tradition of treating women with utmost pride and
 dignity. I am proud to own that heritage. The relative sanity of my village
-is due to the lack of interest in alcohol and other manly stuff.</p>
+is due to the lack of interest in alcohol and other 'manly' stuff.</p>
 
 <p class='history'>
 So I stand here in front of you. My first name is like a Muslim as to prove my
 Iranian links. There is symbol of 'OM' permanently&nbsp;tattooed&nbsp;on my
-right hand as to symbolize my 'Vedic roots'. My clan shares their genes with
+right hand symbolizes my 'Vedic roots'. My clan shares their genes with
 Greeks who are quite famous for their Mathematics, Philosophy and system of 
 governance. And of course not to mention the educational exposure which I
-have been through is mostly Western. I am a product of such a long and
+have been through is largely Western. I contain in myself such diverse civilizations and
 rich history. This feeling makes me warm again and again.
 </p>
 
