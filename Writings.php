@@ -88,7 +88,7 @@ The relation between secular and religion is not without faults. <a href="http:/
 </li>
 
 <li> On one hand, We do not seem to be interested in our history, on the other hand we are obsessed with a past which 
-is glorious and without any failing. <a href="http://wp.me/p2Ob7E-bN">Neglect of history and the obsession of the past </a>
+is glorious and without any failing. <a href="http://wp.me/p2Ob7E-bN">Neglect of history and the obsession with the past </a>
 </li>
 
 </ul>
