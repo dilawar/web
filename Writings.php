@@ -6,9 +6,12 @@ insertIntoDB();
 <h2>Dilawar Singh</h2>
 <h3>Writings</h3>
 
-<a href="http://dilawarrajput.wordpress.com" target="_blank"><h2>Dilawar's Blog</h2></a>
-<p><small> I have moved this blog from blogspot to wordpress. </small></p>
-I keep my late-night thoughts on this blog.  Some of these blogs are listed here.
+<a href="http://dilawarrajput.wordpress.com" target="_blank"><h2>Dilawar's 
+Blog</h2></a>
+<p><small> I moved this blog from blogspot to wordpress. </small></p>
+
+I keep my late-night thoughts on this blog.  Some of these blogs are listed 
+here.
 
 <h3>Personal </h3>
 <ul class='blog'>
@@ -77,7 +80,15 @@ widespread. Here are some thoughts on it : <a href="http://dilawarrajput.wordpre
 
 <li>
 Why there is so much tutelage of women in India. How a male percieve women : <a
-    href="http://wp.me/p2Ob7E-2W">Perceptions of woman</a>.
+    href="http://wp.me/p2Ob7E-2W">Society's perceptions of woman</a>.
+</li>
+
+<li> 
+The relation between secular and religion is not without faults. <a href="http://wp.me/p2Ob7E-8y">In praise of : Secularism </a> 
+</li>
+
+<li> On one hand, We do not seem to be interested in our history, on the other hand we are obsessed with a past which 
+is glorious and without any failing. <a href="http://wp.me/p2Ob7E-bN">Neglect of history and the obsession of the past </a>
 </li>
 
 </ul>
@@ -91,7 +102,7 @@ Some blogs on IIT Bombay : <a
 	href="http://dilawarrajput.wordpress.com/2011/02/15/whither-iit.html">Whither IIT</a>
 also my views on Jairam Ramesh comments about IITs <a
 	href="http://dilawarrajput.wordpress.com/2011/05/24/narcissism-of-the-neurotics.html">Narcissism
-	of the neurotics</a>.
+	of the neurotics</a>. And <a href="http://wp.me/p2Ob7E-46">an open letter to IIT Undergraduates.</a>
 </li>
 <li>
 Since I plan to remain in academics : <a
