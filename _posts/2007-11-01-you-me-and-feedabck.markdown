@@ -3,9 +3,6 @@ comments: true
 date: 2007-11-01 14:06:00+00:00
 layout: post
 title: You, me and feedabck
-category: personal
-tags: [my first blog]
-
 ---
 
 I just love the concept of feedback, negative in particular. It makes lifestable
