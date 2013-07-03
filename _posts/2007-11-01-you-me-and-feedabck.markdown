@@ -2,9 +2,8 @@
 comments: true
 date: 2007-11-01 14:06:00+00:00
 layout: post
-slug: you-me-and-feedabck
 title: You, me and feedabck
-categories:- My first blog
+categories: My first blog
 ---
 
 I just love the concept of feedback, negative in particular. It makes lifestable
